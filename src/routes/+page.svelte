@@ -33,6 +33,7 @@
 			and hit copy to copy it to your clipboard. Then just open the chat window and press CTRL+V to
 			paste it in.
 		</p>
+		<p>Also if you see kaytheborb in-game, say hi! :3</p>
 	</div>
 	<div class="h-[1px] w-full bg-primary"></div>
 
